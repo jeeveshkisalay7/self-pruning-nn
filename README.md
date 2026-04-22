@@ -69,8 +69,6 @@ dL/dw_ij  = dL/d(pw_ij) · gate_ij
 dL/dg_ij  = dL/d(pw_ij) · w_ij · gate_ij · (1 - gate_ij)
 ```
 
----
-
 ## How It Works
 
 ### Loss Function
